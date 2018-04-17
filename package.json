@@ -1,0 +1,33 @@
+{
+  "name": "node_what_todo",
+  "version": "1.0.0",
+  "description": "-Node \r -Express \r -MySQL \r -Handlebars \r -Jquery",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "yes",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.14.2",
+    "express": "^4.13.3",
+    "express-handlebars": "^2.0.1",
+    "mysql": "^2.15.0",
+    "nodemon": "^1.17.3"
+  },
+  "devDependencies": {
+    "handlebars-helper-css": "^0.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Najeeldennie/full-stack1.git"
+  },
+  "keywords": [
+    "yes"
+  ],
+  "bugs": {
+    "url": "https://github.com/Najeeldennie/full-stack1/issues"
+  },
+  "homepage": "https://github.com/Najeeldennie/full-stack1#readme"
+}
